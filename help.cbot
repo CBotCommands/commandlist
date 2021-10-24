@@ -1,0 +1,3 @@
+SEND "CBot will execute any command given if it exists."
+SEND "To create a command, fork this repository https://github.com/CBotCommands/commandlist , create a file with your command's name and make the extension ''.cbot''"
+SEND "To find every command, check every file here https://github.com/CBotCommands/commandlist"
